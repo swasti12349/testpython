@@ -1,0 +1,42 @@
+streamlit
+openai==0.28
+PyPDF2
+python-docx
+python-dotenv
+scikit-learn
+# Streamlit and core tools
+streamlit==1.33.0
+streamlit-msal
+streamlit-js-eval
+# streamlit-components
+
+# Authentication and HTTP
+msal
+requests
+
+
+# File parsing
+PyPDF2
+python-docx
+
+# Environment variable loader
+python-dotenv
+
+# NLP and ML
+scikit-learn
+numpy
+
+# Visualization
+plotly
+# textract==1.2.0
+
+
+# PDF generation
+fpdf 
+
+Spire.Doc
+
+markdown
+beautifulsoup4
+
+pynput
