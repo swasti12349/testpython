@@ -20,7 +20,7 @@ st.set_page_config(page_title='Resume Filter App',page_icon="nathcorp.jpg")
 
 st.session_state.just_logged_out = False
 st.session_state.access_token = ""
-# st_autorefresh(interval=300000, limit=None, key="refresh_timer")
+# st_autorefresh(interval=300000, limit=None, key="refresh_timer
 
 
 st.markdown("""
